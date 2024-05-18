@@ -8,4 +8,7 @@ Welcome to the Job Postings and Skills Analysis Project! This project focuses on
 - To provide insights that can help job seekers, employers, and educators make informed decisions based on current job market trends.
 
 Through this project, aim to uncover valuable insights into the job market, helping stakeholders better understand the dynamics between job requirements and compensation.
+
+Dataset Source and Course : Luke Barousse
+Link : https://youtu.be/7mz73uXD9DA?si=Jh3TqOGBv-huWfuE
 </p>
