@@ -187,4 +187,3 @@ SELECT
 FROM points_table
 GROUP BY customer_id
 ORDER BY total_points DESC;
-
